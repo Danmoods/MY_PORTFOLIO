@@ -23,6 +23,12 @@ main {
     
 }
 
+header {
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+}
+
 div {
     text-align: center;
 }
@@ -48,7 +54,7 @@ nav ul {
     align-items: center;
     padding: 30px;
     gap: 20px;
-    border-radius: 5px;
+    
     
 }
 
