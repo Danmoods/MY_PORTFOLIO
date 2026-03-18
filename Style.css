@@ -35,9 +35,10 @@ div {
 
 ul li {
     display: inline-block;
+    color: black;
 }
-nav ul {
-    text-align: right;
+header nav a {
+    color: black;
 }
 .image {
     width: 200px;
